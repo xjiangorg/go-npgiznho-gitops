@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/go-npgiznho:52723770b66226d8638953b46aed17f725cccfdf@sha256:de5f39d1d6c1a8e463ae490e43a6d28a258ae954f238c797ac7463e7a0aa9a1a
+        - image: quay.io/quay_xjiang/go-npgiznho:66566b6bef00b5bc0d4cfe8985225aeaff6b913c@sha256:8e0f7265002676343158d648da79450ef4718de17d3c4884a44fb24dbd381e46
           name: container-image
